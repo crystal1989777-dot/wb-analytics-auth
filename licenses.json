@@ -1,0 +1,42 @@
+{
+  "_app": {
+    "latest_version": "1.0.0",
+    "download_url": "https://example.com/analitik-wb-setup.exe"
+  },
+  "NAN": {
+    "status": "active",
+    "expires": "nan",
+    "name": "nan",
+    "app_version": "nan"
+  },
+  "ADAE63AF3E5998A64273BB40DC12E45081AEF8E75F3880B8D29B2831002AEDC7": {
+    "status": "active",
+    "expires": "2026-06-29",
+    "name": "Первый",
+    "app_version": "1.0.0"
+  },
+  "1CC144E3E5BD9AFFF566379070D217A148EB3D44295F554A9F5C38A81372F9EF": {
+    "status": "active",
+    "expires": "2026-07-08",
+    "name": "Алёна",
+    "app_version": "1.0.0"
+  },
+  "132BCC412DBBACB7BA0019FE834ACE341BE11CF36ED9AB6CBBF7D4B043F85826": {
+    "status": "active",
+    "expires": "2026-07-09",
+    "name": "Олег",
+    "app_version": "1.0.0"
+  },
+  "3F413EC1BD14D1E55E4EC870732B88FE91149EA0950CE58483C912948B92FBFC": {
+    "status": "active",
+    "expires": "2026-07-11",
+    "name": "Света",
+    "app_version": "1.0.0"
+  },
+  "B9E1387E3C85DB2A6087282E850E27670ECCE4FB0012570D10AC44D98063A700": {
+    "status": "active",
+    "expires": "2026-07-19",
+    "name": "sam1989777",
+    "app_version": "1.0.0"
+  }
+}
