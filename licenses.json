@@ -9,12 +9,6 @@
     "name": "nan",
     "app_version": "nan"
   },
-  "ADAE63AF3E5998A64273BB40DC12E45081AEF8E75F3880B8D29B2831002AEDC7": {
-    "status": "active",
-    "expires": "2026-06-29",
-    "name": "Первый",
-    "app_version": "1.0.0"
-  },
   "1CC144E3E5BD9AFFF566379070D217A148EB3D44295F554A9F5C38A81372F9EF": {
     "status": "active",
     "expires": "2026-07-08",
@@ -31,12 +25,6 @@
     "status": "active",
     "expires": "2026-07-11",
     "name": "Света",
-    "app_version": "1.0.0"
-  },
-  "078FB76BFA235AA4389ED393310B69600F0F9B52FBFA35E7CB309F5D70555842": {
-    "status": "active",
-    "expires": "2026-07-19",
-    "name": "sam1989777",
     "app_version": "1.0.0"
   }
 }
