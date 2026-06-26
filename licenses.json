@@ -38,5 +38,11 @@
     "expires": "2026-07-25",
     "name": "",
     "app_version": "1.0.0"
+  },
+  "4C992897C1B6D82DAF230EF2971D5088244EE8430B5849FD73FB1CF2C1DEE756": {
+    "status": "active",
+    "expires": "2026-07-26",
+    "name": "",
+    "app_version": "1.0.0"
   }
 }
